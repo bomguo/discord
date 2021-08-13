@@ -1,9 +1,3 @@
-
-# 필수설치 모듈
-#pip install discord
-#pip install captcha
-#pip install asyncio
-
 import discord
 from captcha.image import ImageCaptcha
 import random
