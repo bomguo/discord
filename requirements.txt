@@ -1,5 +1,5 @@
-discord.py==0.16.12
-random.py==0.16.12
-time.py==0.16.12
-asyncio, os.py==0.16.12
-ImageCaptcha.py==0.16.12
+discord.py
+random.py
+time.py
+asyncio, os.py
+ImageCaptcha.py
